@@ -1,2 +1,2 @@
-# first_project
-My first repo on github. Let's see what this will do.
+# Monty Hall problem
+This repo has a simulation of the famous Monty Hall problem. More about that on this awesome video from numberphile:https://www.youtube.com/watch?v=4Lb-6rxZxx0. 
